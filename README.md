@@ -1,0 +1,4 @@
+- Hi, my name is Aidan and I am currently a Senior at Penn State University.
+- I am currently majoring in International Relations and minoring in German.
+- I am also interested in data analysis and visualisation, especially in the context of international affairs. 
+- You can reach me by emailing me at: aonestbtc@gmail.com
